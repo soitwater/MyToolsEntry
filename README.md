@@ -4,4 +4,4 @@
 ## Tools
 | 名称                            | 描述                                 | 链接                                                                       |
 | ------------------------------- | ------------------------------------ | -------------------------------------------------------------------------- |
-| electron-file-management-system | 使用Electron框架编写的文件管理应用。 | [跳转](https://github.com/soitwaterswheel/electron-file-management-system) |
+| ElectronDesktopTools | desktop tool by Electron | [跳转](https://github.com/soitwater/ElectronDesktopTools) |
